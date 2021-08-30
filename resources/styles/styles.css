@@ -90,3 +90,6 @@ header nav ul li {
 }
 
 div.location-item h3.thin { font-weight: lighter; }
+
+/* Contact details */
+#contact { height: 200px; }
