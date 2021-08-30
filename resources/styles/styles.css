@@ -67,3 +67,11 @@ header nav ul li {
 }
 
 .tea-item h4 { margin-top: 0; }
+
+/* Location section */
+
+#location {
+    height: 500px;
+    width: 1200px;
+    margin: auto;
+}
