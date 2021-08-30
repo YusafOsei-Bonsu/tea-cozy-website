@@ -46,3 +46,24 @@ header nav ul li {
     background-color: #000000; 
     width: 100%;
 }
+
+/* Tea section */
+
+#tea {
+    margin: auto;
+    width: 1000px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.tea-item img {
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.tea-item h4 { margin-top: 0; }
