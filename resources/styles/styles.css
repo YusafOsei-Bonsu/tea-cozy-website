@@ -67,3 +67,26 @@ header nav ul li {
 }
 
 .tea-item h4 { margin-top: 0; }
+
+/* Location section */
+
+#location {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 1200px;
+    margin: auto;
+    background-image: url('../images/img-locations-background.jpg');
+}
+
+.location-item {
+    background-color: #000000;
+    width: 300px;
+    opacity: 1;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.thin { font-weight: lighter; }
