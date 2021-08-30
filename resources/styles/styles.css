@@ -42,7 +42,7 @@ header nav ul li {
     background-image: url('../images/img-mission-background.jpg');
 }
 
-#mission div { 
+#mission article { 
     background-color: #000000; 
     width: 100%;
 }
