@@ -30,3 +30,19 @@ header nav ul li {
     list-style-type: none;
     margin-left: 10px;
 }
+
+/* Mission section */
+
+#mission {
+    display: flex;
+    align-items: center;
+    height: 700px;
+    width: 1200px;
+    margin: auto;
+    background-image: url('../images/img-mission-background.jpg');
+}
+
+#mission div { 
+    background-color: #000000; 
+    width: 100%;
+}
